@@ -29,8 +29,10 @@ Welcome to my GitHub! I’m a beginner Data Analyst passionate about transformin
   _Uncovering factors influencing app ratings in the Play Store._
 - [Chicago_Crime_Dataset](https://github.com/kaniz789/Chicago_Crime_Dataset)  
   _Crime pattern analysis and visualization in Chicago._
-- IMDB_Movie_Dataset  
-- Airbnb_Dataset  
+- [IMDB_Movie_Dataset](https://github.com/kaniz789/IMDB_Movie_Dataset)  
+  _Data exploration and insights from IMDB movie ratings and metadata._
+- [Airbnb_Dataset](https://github.com/kaniz789/Airbnb_Dataset)  
+  _Analyzing Airbnb listings for trends and actionable business insights._ 
 
 _Check out my repositories for more!_
 
