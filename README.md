@@ -1,44 +1,59 @@
 # about-me-Kaniz-Tashu
-# 👋 Hi, I’m Kaniz!
 
-## 🌱 Beginner Data Analyst | Turning data into actionable insights
+# Hi, I’m Kaniz 👋
 
-Welcome to my GitHub profile! I’m passionate about transforming raw data into meaningful stories that drive decision-making. As a beginner data analyst, I’m constantly exploring new datasets and sharpening my skills in:
+🌟 **Aspiring Data Analyst** | Python | SQL | Excel | Power BI
 
-- **Python** | **SQL** | **Excel** | **Power BI**
-- Data cleaning, analysis, and visualization
+Welcome to my GitHub! I’m a beginner Data Analyst passionate about transforming raw data into meaningful insights and impactful visualizations for better decision-making.
 
 ---
 
-## 🔥 Featured Projects
+## 🔧 Skills & Tools
 
-- [Data_Analyst_Jobs-in-USA](https://github.com/kaniz789/Data_Analyst_Jobs-in-USA): Exploring trends in data analyst job postings across the US.
-- [App_Rating-in-Playstore](https://github.com/kaniz789/App_Rating-in-Playstore): Analyzing app ratings and factors influencing popularity on the Play Store.
-- [Chicago_Crime_Dataset](https://github.com/kaniz789/Chicago_Crime_Dataset): Visualizing and interpreting crime data from Chicago.
-- [IMDB_Movie_Dataset](https://github.com/kaniz789/IMDB_Movie_Dataset): Diving into movie data to uncover hidden patterns.
-- [Airbnb_Dataset](https://github.com/kaniz789/Airbnb_Dataset): Extracting insights from Airbnb listings and reviews.
-
----
-
-## 🏆 Certification
-
-- **Microsoft Azure DP-900: Data Fundamentals**
+- **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **Data Preparation**: Data cleaning, preprocessing, exploration
+- **Visualization**: Power BI, Excel, Python plotting libraries
+- **Machine Learning**: Basic modeling and predictive analytics
 
 ---
 
-## 🌍 About Me
+## 🚀 Featured Projects
 
-- 📊 Love making sense of data and presenting insights through visualizations.
-- ✈️ Avid traveler, passionate cook, and gardening enthusiast.
-- 🚀 Always eager to learn and take on new data challenges!
+- [IMF-Projections-Dataset-2023-Analysis](https://github.com/kaniz789/IMF-Projections-Dataset-2023-Analysis)  
+  _Exploring global economic forecasts and trends with advanced visualizations._
+- [disney_hotstar_insights](https://github.com/kaniz789/disney_hotstar_insights)  
+  _Insights into streaming content trends on Disney+ Hotstar._
+- [Data_Analyst_Jobs-in-USA](https://github.com/kaniz789/Data_Analyst_Jobs-in-USA)  
+  _Analyzing the data analyst job market in the USA._
+- [App_Rating-in-Playstore](https://github.com/kaniz789/App_Rating-in-Playstore)  
+  _Uncovering factors influencing app ratings in the Play Store._
+- [Chicago_Crime_Dataset](https://github.com/kaniz789/Chicago_Crime_Dataset)  
+  _Crime pattern analysis and visualization in Chicago._
+- IMDB_Movie_Dataset  
+- Airbnb_Dataset  
+
+_Check out my repositories for more!_
 
 ---
 
-## 📫 Let’s Connect!
+## 🏅 Certifications
 
-- [LinkedIn](#) <!-- Add your LinkedIn link here if desired -->
-- [Portfolio](#) <!-- Add your portfolio link here if you have one -->
+- **Microsoft Certified: Azure Data Fundamentals (DP-900)**
 
 ---
 
-> “Data is a tool for enhancing intuition.” – Hilary Mason
+## 🌱 About Me
+
+- 💡 I love turning data into actionable insights and visual stories.
+- ✈️ Avid traveler, enthusiastic cook, and passionate gardener.
+- 📚 Always learning and exploring new data tools and techniques.
+
+---
+
+<!-- Optionally, add your social links here
+## 🌐 Connect with me
+
+[LinkedIn](#) | [Portfolio](#) | [Email](#)
+-->
+
+Thanks for visiting my profile! 🚀
